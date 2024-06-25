@@ -10,6 +10,8 @@ TRANSF_SIZE = 512
 #
 # Answer sheet properties.
 #
+
+
 N_QUESTIONS = 10
 
 ANSWER_SHEET_WIDTH = 740
