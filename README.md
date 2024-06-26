@@ -81,3 +81,6 @@ test_omr.py .                                                                   
 ============================================================ 1 passed in 0.31s ============================================================
 ```
 
+
+## Author
+[Krishna Kayaking](https://github.com/techie-krishna-kayaking)
