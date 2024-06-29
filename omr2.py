@@ -1,9 +1,10 @@
+#  pip install pandas numpy cv2
 import cv2
 import numpy as np
 import pandas as pd
 
 # Load the image
-image_path = '/Users/kkrishna/PycharmProjects/OCROMR/OMR/omr1/img/test4.jpg'
+image_path = "C:\\Users\\Administrator\\PycharmProjects\\omr\\img\\test4.jpg"
 image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 # Apply GaussianBlur to reduce noise and improve contour detection
@@ -65,7 +66,7 @@ for i in range(0, len(contours), num_choices_per_question):
 df = pd.DataFrame(answers, columns=['Question', 'Answer'])
 
 # Save the DataFrame to a CSV file
-csv_path = '/Users/kkrishna/PycharmProjects/OCROMR/OMR/omr1/output.csv'
+csv_path = "C:\\Users\\Administrator\\PycharmProjects\\omr\\output.csv"
 df.to_csv(csv_path, index=False)
 
 print(f"Answers saved to {csv_path}")

@@ -1,6 +1,10 @@
 NAME,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10
 answered-sheet-photo-result.png,A,N/A,N/A,N/A,N/A,N/A,A,N/A,N/A,A
-corner-full.png,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-rotated-answeredsheet.png,A,C,C,E,N/A,N/A,A,N/A,N/A,N/A
-corner.png,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 answered-sheet-photo.jpg,A,C,C,E,N/A,N/A,A,N/A,N/A,N/A
+corner-full.png,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+corner.png,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+rotated-answeredsheet.png,A,C,C,E,N/A,N/A,A,N/A,N/A,N/A
+test1.jpeg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+test2.jpeg,N/A,N/A,E,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+test3.jpeg,N/A,A,N/A,B,N/A,C,D,D,A,B
+test4.jpg,N/A,N/A,D,N/A,N/A,N/A,N/A,N/A,N/A,N/A

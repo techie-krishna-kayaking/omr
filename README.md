@@ -6,8 +6,8 @@ omr is a small Python 3 **o**ptical **m**ark **r**ecognition script. It takes as
 
 ## Usage
 ```sh
-$ python omr.py --help
-usage: omr.py [-h] --input INPUT [--output OUTPUT] [--show]
+$ python omr-bck.py --help
+usage: omr-bck.py [-h] --input INPUT [--output OUTPUT] [--show]
 
 optional arguments:
   -h, --help       show this help message and exit
@@ -18,7 +18,7 @@ optional arguments:
 
 ## Example
 ```sh
-$ python omr.py --input img/answered-sheet-photo.jpg  --output /tmp/results.png --show
+$ python omr-bck.py --input img/answered-sheet-photo.jpg  --output /tmp/results.png --show
 
 Q1: A
 Q2: C
@@ -60,7 +60,7 @@ $ cd omr/
 $ virtualenv --python=`which python3` venv
 $ source venv/bin/activate
 (venv) $ pip install -r requirements.txt
-(venv) $ python omr.py --help
+(venv) $ python omr-bck.py --help
 ```
 
 ## Anwer Sheet
